@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">KajianKuy</string>
+
+    <string name="tentang">
+        KajianKuy merupakan aplikasi informasi jadwal kajian di Universitas Lampung.
+        Aplikasi ini dapat digunakan untuk khalayak umum serta khususnya civitas akademika Universitas Lampung
+    </string>
+
+    <string name="btn_daftar">Pada menu ini, pengguna dapat melihat daftar informasi jadwal kajian di Universitas Lampung</string>
+
+    <string name="btn_favorite">
+        Pada menu ini, pengguna dapat melihat informasi jadwal kajian yang telah dipilih sebagai jadwal kajian favorite
+        yang dapat berfungsi sebagai pengingat jadwal kajian
+    </string>
+
+    <string name="btn_bantuan">
+        Pada menu ini, pengguna dapat melihat panduan tentang fungsi menu-menu pada aplikasi KajianKuy
+    </string>
+
+    <string name="btn_tentang">
+        Pada menu ini, pengguna dapat melihat informasi tentang penjelasan informasi KajianKuy
+    </string>
+    <string name="text_login">Belum Punya Akun? Silahkan Daftar Dahulu</string>
+    <string name="sudah_punya_akun_login_disini">Sudah Punya Akun? Login Disini</string>
+</resources>

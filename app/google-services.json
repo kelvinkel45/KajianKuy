@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "814312083512",
+    "firebase_url": "https://kajiankuyfix1.firebaseio.com",
+    "project_id": "kajiankuyfix1",
+    "storage_bucket": "kajiankuyfix1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814312083512:android:a6a0db690576c79a",
+        "android_client_info": {
+          "package_name": "com.vcode.kajiankuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814312083512-6jeektveci63fa5ms4fer8e8lo4ul1a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdE4-cnN2AiIri8glRU4sM4wjNgrG3fuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814312083512-6jeektveci63fa5ms4fer8e8lo4ul1a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
